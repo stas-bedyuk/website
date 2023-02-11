@@ -1,0 +1,315 @@
+Uri: https://action-vacation.ru/
+File Name: C:\Downloaded Web Sites\action-vacation.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://action-vacation.ru/privacy
+File Name: C:\Downloaded Web Sites\action-vacation.ru\privacy-1.html
+Content Type: text/html
+
+Uri: https://action-vacation.ru/tilda-blocks-page24181866.min.css?t=1655133924
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tilda-blocks-page24181866.min.css
+Content Type: text/css
+
+Uri: https://action-vacation.ru/tilda-blocks-page24181866.min.js?t=1655133924
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tilda-blocks-page24181866.min.js
+Content Type: application/javascript
+
+Uri: https://action-vacation.ru/tilda-blocks-page24209538.min.css?t=1655133924
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tilda-blocks-page24209538.min.css
+Content Type: text/css
+
+Uri: https://action-vacation.ru/tilda-blocks-page24209538.min.js?t=1655133924
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tilda-blocks-page24209538.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/87017180
+File Name: C:\Downloaded Web Sites\action-vacation.ru\watch\87017180-1
+Content Type: image/gif
+
+Uri: https://stat.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-fallback-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\action-vacation.ru\css\tilda-animation-1.0.min-1.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\action-vacation.ru\css\tilda-forms-1.0.min-1.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\action-vacation.ru\css\tilda-grid-3.0.min-1.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\action-vacation.ru\css\tilda-popup-1.1.min-1.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\action-vacation.ru\css\tilda-slds-1.4.min-1.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\hammer.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\jquery-1.10.2.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\lazyload-1.3.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-animation-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-animation-sbs-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-events-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-forms-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-scripts-3.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-slds-1.4.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.0.min.js
+File Name: C:\Downloaded Web Sites\action-vacation.ru\js\tilda-zero-1.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3062-3462-4164-b831-383933663832/-/empty/Instagram_post_-_5.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3062-3462-4164-b831-383933663832\-\empty\Instagram_post_-_5.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3065-6432-4862-b261-353763653165/Gilroy-Medium.woff
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3065-6432-4862-b261-353763653165\Gilroy-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3239-3062-4566-a431-313934303632/-/resize/20x/_-min.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3239-3062-4566-a431-313934303632\-\resize\20x\_-min.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3262-6465-4339-a536-346433643438/-/resize/20x/__-min.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3262-6465-4339-a536-346433643438\-\resize\20x\__-min.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3263-3734-4366-b034-373362323261/-/resize/20x/Rectangle_39.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3263-3734-4366-b034-373362323261\-\resize\20x\Rectangle_39.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3263-3933-4466-a638-396661623163/--5__1-min-2.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3263-3933-4466-a638-396661623163\--5__1-min-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3263-6238-4661-b438-646237373731/-/resize/20x/Group_99.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3263-6238-4661-b438-646237373731\-\resize\20x\Group_99.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3263-6331-4666-a135-613366316435/Montserrat-SemiBold.woff
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3263-6331-4666-a135-613366316435\Montserrat-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3336-3833-4561-a134-663438323636/-/resize/20x/3002.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3336-3833-4561-a134-663438323636\-\resize\20x\3002.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3337-3338-4538-a635-363738363433/-/resize/20x/noroot.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3337-3338-4538-a635-363738363433\-\resize\20x\noroot.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3339-3264-4165-a663-646436626335/-/resize/20x/CompassF03_1-min.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3339-3264-4165-a663-646436626335\-\resize\20x\CompassF03_1-min.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3362-3737-4137-a536-353539363134/-/resize/20x/Group_74.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3362-3737-4137-a536-353539363134\-\resize\20x\Group_74.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3432-3462-4935-a265-356166373630/-/resize/20x/__1-min.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3432-3462-4935-a265-356166373630\-\resize\20x\__1-min.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3463-3238-4163-b433-336638333034/-/resize/20x/IMG_4888.JPG
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3463-3238-4163-b433-336638333034\-\resize\20x\IMG_4888.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3465-3830-4331-b434-323133333537/-/resizeb/20x/IMG_3879.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3465-3830-4331-b434-323133333537\-\resizeb\20x\IMG_3879.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3564-3733-4233-a262-323138666536/Reformagroteskboldc.woff
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3564-3733-4233-a262-323138666536\Reformagroteskboldc.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3631-6461-4463-a331-333533646139/Gilroy-Light.woff
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3631-6461-4463-a331-333533646139\Gilroy-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3636-3834-4237-b239-333766323061/-/resize/20x/Group_50.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3636-3834-4237-b239-333766323061\-\resize\20x\Group_50.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3637-6365-4434-a164-393336626361/-/resize/20x/____1.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3637-6365-4434-a164-393336626361\-\resize\20x\____1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3638-6131-4530-b463-663864393437/-/resizeb/20x/C1C75D4E-D65F-49A1-9.JPG
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3638-6131-4530-b463-663864393437\-\resizeb\20x\C1C75D4E-D65F-49A1-9.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3666-3131-4937-a436-303936626531/-/resize/20x/Group_47.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3666-3131-4937-a436-303936626531\-\resize\20x\Group_47.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3731-6265-4063-b934-633635663333/-/resize/20x/3001.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3731-6265-4063-b934-633635663333\-\resize\20x\3001.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3738-3537-4466-b437-313963383263/-/resizeb/20x/IMG_3864.JPG
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3738-3537-4466-b437-313963383263\-\resizeb\20x\IMG_3864.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3738-6534-4037-a439-353463306233/-/resizeb/20x/IMG_3871.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3738-6534-4037-a439-353463306233\-\resizeb\20x\IMG_3871.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3761-6237-4863-b064-386164376437/-/resizeb/20x/IMG_3869.JPG
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3761-6237-4863-b064-386164376437\-\resizeb\20x\IMG_3869.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3764-6135-4363-b065-616534623236/Gilroy-Regular.woff
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3764-6135-4363-b065-616534623236\Gilroy-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3830-3234-4236-b331-333566313834/-/resize/20x/Group_74.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3830-3234-4236-b331-333566313834\-\resize\20x\Group_74.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3832-6466-4063-b738-376262323635/-/resize/20x/MapH03_1-min.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3832-6466-4063-b738-376262323635\-\resize\20x\MapH03_1-min.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3839-3635-4233-a466-363063343266/-/resizeb/20x/Frame_72.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3839-3635-4233-a466-363063343266\-\resizeb\20x\Frame_72.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3935-3633-4530-a433-363932333632/Rectangle_46.svg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild3935-3633-4530-a433-363932333632\Rectangle_46.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6131-6234-4833-a532-653335636161/Gilroy-Bold.woff
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6131-6234-4833-a532-653335636161\Gilroy-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6131-6363-4266-a463-313238376563/-/resize/20x/3003.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6131-6363-4266-a463-313238376563\-\resize\20x\3003.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6132-6439-4261-b037-373764616231/-/resize/20x/IMG_4887.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6132-6439-4261-b037-373764616231\-\resize\20x\IMG_4887.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6135-3164-4535-a362-303632356664/-/resize/20x/Group_46.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6135-3164-4535-a362-303632356664\-\resize\20x\Group_46.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6136-3161-4630-a634-383062323734/Group_64.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6136-3161-4630-a634-383062323734\Group_64.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6163-6132-4332-b935-303664616266/-/resize/20x/9__.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6163-6132-4332-b935-303664616266\-\resize\20x\9__.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6165-6535-4561-a338-633661316336/-/resizeb/20x/IMG_3878.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6165-6535-4561-a338-633661316336\-\resizeb\20x\IMG_3878.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6230-6664-4263-b061-643262343539/-/resize/20x/IMG_5006.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6230-6664-4263-b061-643262343539\-\resize\20x\IMG_5006.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6233-3234-4330-a133-623030356134/favicon-4.ico
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6233-3234-4330-a133-623030356134\favicon-4.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6239-3939-4239-b536-393637383661/-/resize/20x/IMG_4889.JPG
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6239-3939-4239-b536-393637383661\-\resize\20x\IMG_4889.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6261-3062-4535-a131-643532363533/-/resizeb/20x/IMG_3880.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6261-3062-4535-a131-643532363533\-\resizeb\20x\IMG_3880.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6261-6265-4834-b164-356566666135/-/resize/20x/--5__1-min-2.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6261-6265-4834-b164-356566666135\-\resize\20x\--5__1-min-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6330-3232-4133-b234-336463666233/logo-1.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6330-3232-4133-b234-336463666233\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6331-6234-4866-a665-386530613263/-/resizeb/20x/IMG_3881.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6331-6234-4866-a665-386530613263\-\resizeb\20x\IMG_3881.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-3838-4862-a663-633465613463/-/resizeb/20x/IMG_3882.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6339-3838-4862-a663-633465613463\-\resizeb\20x\IMG_3882.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6339-6161-4462-b936-336465656161/-/resize/20x/IMG_4882.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6339-6161-4462-b936-336465656161\-\resize\20x\IMG_4882.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6361-3930-4966-b662-343732643933/01c6a4d4f5a408152313.svg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6361-3930-4966-b662-343732643933\01c6a4d4f5a408152313.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6362-6635-4465-b539-653862613836/-/resize/20x/egle-sidaraviciute-p.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6362-6635-4465-b539-653862613836\-\resize\20x\egle-sidaraviciute-p.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6437-6264-4630-b766-626233616462/-/resize/20x/IMG_4890.JPG
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6437-6264-4630-b766-626233616462\-\resize\20x\IMG_4890.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6466-3163-4663-b565-386539613033/-/resize/20x/image_6-min.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6466-3163-4663-b565-386539613033\-\resize\20x\image_6-min.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6565-3537-4163-a138-373631616235/-/resizeb/20x/Frame_70.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6565-3537-4163-a138-373631616235\-\resizeb\20x\Frame_70.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6634-3039-4732-b534-353936623665/-/resize/20x/IMG_8324-2.jpg
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6634-3039-4732-b534-353936623665\-\resize\20x\IMG_8324-2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6664-6239-4131-a138-343035613330/-/resize/20x/Rectangle_40.png
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tild6664-6239-4131-a138-343035613330\-\resize\20x\Rectangle_40.png
+Content Type: image/png
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1412903-b81F7
+File Name: C:\Downloaded Web Sites\action-vacation.ru\rtrg-1
+Content Type: image/gif
+
+Uri: https://www.facebook.com/tr?id=407131234560667&ev=PageView&agent=pltilda&noscript=1
+File Name: C:\Downloaded Web Sites\action-vacation.ru\tr-1
+Content Type: image/gif
+
+tion.ru\tr
+Content Type: image/gif
+
